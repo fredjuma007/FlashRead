@@ -23,7 +23,7 @@ const Hero = () => {
         <span className='orange_gradient '>Powered by GPT-4</span>
       </h1>
       <h2 className='desc'>
-        Simplify your reading & reasearch with FlashRead, an article summarizer AI
+        Simplify your reading & research with FlashRead, an article summarizer AI
         that transforms lengthy web articles into clear straight-fowrward summaries
       </h2>
 
