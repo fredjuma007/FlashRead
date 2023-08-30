@@ -24,7 +24,7 @@ const Hero = () => {
       </h1>
       <h2 className='desc'>
         Simplify your reading & research with FlashRead, an article summarizer AI
-        that transforms lengthy web articles into clear straight-fowrward summaries
+        that transforms lengthy web articles into clear straight-forward summaries
       </h2>
 
     </header>
