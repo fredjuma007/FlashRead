@@ -15,7 +15,15 @@ const Hero = () => {
         >
           GitHub
         </button>
-        
+             <button
+          type='button'
+          onClick={() =>
+            window.open("https://www.buymeacoffee.com/fredjuma", "_blank") 
+          }
+          className='black_btn'
+        >
+          Support
+        </button>
       </nav>
 
       <h1 className='head_text'>
