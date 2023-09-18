@@ -9,7 +9,7 @@ const Hero = () => {
         <button
           type='button'
           onClick={() =>
-            window.open("https://github.com/fredjuma007/FlashRead", "_blank") // beacause it is open source project
+            window.open("https://github.com/fredjuma007/FlashRead", "_blank")
           }
           className='black_btn'
         >
@@ -18,7 +18,7 @@ const Hero = () => {
              <button
           type='button'
           onClick={() =>
-            window.open("https://www.buymeacoffee.com/fredjuma", "_blank") 
+            window.open("https://www.buymeacoffee.com/fredjuma", "_blank")
           }
           className='black_btn'
         >
