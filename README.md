@@ -9,3 +9,4 @@ THE INTERFACE ⬇️⬇️⬇️
 ![Alt Text](screenshots/sum.png)
 
 support the developer by buying me a coffee ☕ at https://www.buymeacoffee.com/fredjuma
+.
